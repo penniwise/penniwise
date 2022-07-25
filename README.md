@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @penniwise 
 - 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning Network Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on intro to GitHub
 - 📫 How to reach me kayman48@hotmail.com
 
 <!---
